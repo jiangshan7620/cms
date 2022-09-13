@@ -1,0 +1,436 @@
+.whole {
+    width: 1100px;
+
+
+    /* border: 1px solid black; */
+
+    margin: 15px 210px;
+}
+
+.whole1 {
+    width: 1100px;
+
+    /* border: 1px solid black; */
+    background-color: white;
+    margin: 25px 210px;
+}
+
+
+
+.header {
+    height: 80px;
+    /* background-color: aqua; */
+}
+
+.header .logo {
+    width: 20%;
+    height: 80%;
+    /* background-color: blue; */
+    margin: 10px 5px;
+    float: left;
+
+}
+
+.header .text {
+    width: 50%;
+    height: 80%;
+    /* background-color: violet; */
+    float: left;
+    margin: 10px 20px;
+    text-align: center;
+    word-spacing: 5px;
+    font-size: 25px;
+    line-height: 60px;
+
+}
+
+.header .tel {
+    width: 20%;
+    height: 80%;
+    float: right;
+    margin: 10px 10px;
+
+    /* background-color: aquamarine; */
+}
+
+.lj {
+    background-color: red;
+    height: 50px;
+    width: 100%;
+}
+
+.lj a {
+    color: white;
+    font-size: 25px;
+    text-decoration-line: none;
+    padding: 25px;
+    align-items: center;
+}
+
+.lj a:hover {
+    color: blue;
+    text-decoration-line: none;
+}
+
+.lj .ljy {
+    float: left;
+
+}
+
+.bigpic {}
+
+.bigpic img {
+    width: 100%;
+    margin-top: 5px;
+
+}
+
+.fpic {
+    height: 140px;
+    /* background-color: green; */
+}
+
+.fpic .img {
+    margin: 10px 5px;
+    float: left;
+    border: #cbcbcb 2px solid;
+}
+
+.fpic .img img {
+    width: 260px;
+}
+
+/* 我是分割线============================== */
+
+/* 通知公告和招生问答 */
+/* .tz {
+    width: 1100px;
+    height: 240px;
+    background-color: purple;
+} */
+
+.box1 {
+    width: 1100px;
+    height: 975px;
+    /* background-color: pink; */
+}
+
+/* 通知公告 */
+/* .tz .tzgg {
+    width: 540px;
+    height: 200px;
+    background-color: white;
+    float: left;
+    margin-top: 20px;
+    border: #cbcbcb 2px solid;
+
+} */
+
+.box2 {
+    width: 540px;
+    height: 225px;
+    background-color: white;
+    float: left;
+    margin-top: 15px;
+    margin-right: 6px;
+    border: #cbcbcb 2px solid;
+}
+
+/* 通知公告头部 */
+/* .tz .tzgg .tzgghead {
+    height: 30px;
+    background-color: yellow;
+    width: 540px;
+    border-bottom: #cbcbcb 2px solid;
+} */
+
+.box3 {
+    height: 30px;
+    /* background-color: yellow; */
+    width: 540px;
+    border-bottom: #cbcbcb 2px solid;
+}
+
+
+/* 通知公告标题 */
+/* .tz .tzgg .tzggbt {
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    color: red;
+    font-weight: bold;
+} */
+
+/* 短标题 */
+.dbt {
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    color: red;
+    font-weight: bold;
+}
+
+
+
+/* 通知公告更多 */
+.gd {
+    float: right;
+    margin-right: 15px;
+    margin-top: 5px;
+
+
+}
+
+/* 更多超链接 */
+.gd a {
+    color: grey;
+}
+
+.gd a:hover {
+    color: red;
+}
+
+/* 通知公告图和无序 */
+.pic_li {
+
+    height: 170px;
+    width: 520px;
+    /* background-color: fuchsia; */
+    float: left;
+
+}
+
+.pic_li .lpic {
+    float: left;
+    margin-left: 5px;
+    margin-top: 10px;
+
+}
+
+.pic_li .li {
+    float: left;
+    margin-left: 10px;
+}
+
+/* 无序通用 */
+
+
+/* 我是分割线=========================== */
+ul {
+
+    list-style-type: none;
+}
+
+ul li{
+    padding-left: 1rem;
+    padding-bottom: 1rem;
+    background-image: url('li2.gif');
+    background-repeat: no-repeat;
+}
+
+/* 招生问答 */
+/* .tz .zswd {
+    width: 540px;
+    height: 200px;
+    background-color: white;
+    float: right;
+
+    margin-top: 20px;
+    border: #cbcbcb 2px solid;
+} */
+
+.box2_2 {
+    width: 540px;
+    height: 200px;
+    background-color: white;
+    float: right;
+
+    margin-top: 20px;
+    border: #cbcbcb 2px solid;
+}
+
+/* 招生问答头部 */
+/* .tz .zswd .zswdhead {
+    height: 30px;
+    background-color: yellow;
+    width: 540px;
+    border-bottom: #cbcbcb 2px solid;
+} */
+
+
+
+
+/* 招生问答标题 */
+/* .tz .zswd .zswdbt {
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    color: red;
+    font-weight: bold;
+} */
+
+
+
+
+
+/* 无序通用*/
+/*li {*/
+
+/*    list-style-image: url(images/lig2.gif);*/
+/*    margin-top: 3px;*/
+/*}*/
+
+
+
+
+
+
+/* 我是分割线 ==============*/
+.jxhj {
+    width: 1096px;
+    height: 190px;
+    background-color: white;
+    border: #cbcbcb 2px solid;
+
+}
+
+/* 图片框架 box4 */
+.box4 {
+    width: 1096px;
+    height: 190px;
+    background-color: white;
+    border: #cbcbcb 2px solid;
+
+
+}
+
+.boxp {
+    width: 1096px;
+    height: 260px;
+    background-color: white;
+    border: #cbcbcb 2px solid;
+
+}
+
+/* .jxhjhead {
+    height: 30px;
+    background-color: yellow;
+    width: 1100px;
+    border-bottom: #cbcbcb 2px solid;
+} */
+
+/* box5 长head */
+.box5 {
+    height: 30px;
+    /* background-color: yellow; */
+    width: 1100px;
+    border-bottom: #cbcbcb 2px solid;
+}
+
+
+/* .jxhjbt {
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 500px;
+    color: red;
+    font-weight: bold;
+} */
+
+/* 长标题 */
+.cbt {
+    float: left;
+    margin-left: 5px;
+    margin-top: 5px;
+    width: 500px;
+    color: red;
+    font-weight: bold;
+}
+
+
+
+/* 六张图片 */
+.simg {
+    height: 160px;
+    border-bottom: #cbcbcb 2px solid;
+    background-color: white;
+}
+
+.simg img {
+    margin: 20px 4px;
+    width: 165px;
+
+}
+
+.simg_2 {
+    height: 220px;
+   
+    /* background-color: brown; */
+}
+
+.simg_2 img {
+    margin: 10px 4px;
+
+    height: 210px;
+    width: 15%;
+    margin: 8px 7px;
+
+}
+
+
+.simg_3 {
+    height: 120px;
+
+    border-bottom: 5px solid red;
+}
+
+.simg_3 img {
+    width: 170px;
+    height: 65px;
+    margin: 10px 2px;
+    
+
+}
+
+.lbt {
+    font-weight: bold;
+    color: red;
+    text-align: center;
+    /* background-color: blue; */
+    text-decoration: underline;
+    height: 50px;
+    margin-top: 15px;
+    font-size: 22px;
+    word-spacing: 2px;
+}
+
+p {
+    text-align: center;
+    margin: 20px 0;
+}
+
+ li a{
+
+text-decoration: none;
+color:  blue;
+
+}
+li a:hover{
+    color: red;
+    text-decoration: underline;
+}
+
+.bian {
+    border:solid red 2px;
+
+}
+
+.frame1 {
+    width: 390px;
+    height: 500px;
+}
+
+.frame2  {
+    width: 700px;
+    height: 650px;
+}

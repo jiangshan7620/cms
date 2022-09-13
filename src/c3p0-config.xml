@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<c3p0-config>
+  <default-config>
+    <property name="driverClass">com.mysql.cj.jdbc.Driver</property>
+    <property name="jdbcUrl">jdbc:mysql://localhost:3306/cms?useSSL=false&amp;serverTimezone=UTC</property>
+    <property name="user">root</property>
+    <property name="password">js199803</property>
+    
+    <property name="initialPoolSize">100</property>
+    <property name="maxPoolSize">300</property>
+    <property name="checkoutTimeout">5000</property>
+
+
+  </default-config>
+
+  <named-config name="otherc3p0"> 
+  </named-config>
+</c3p0-config>
